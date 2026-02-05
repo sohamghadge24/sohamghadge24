@@ -1,15 +1,40 @@
-# 👋 Hi, I’m Soham Ghadge
 
-💻 **Software Developer** | 🎓 **MSc AI/ML Student**  
-Passionate about building **secure, scalable, and user-friendly applications**. 
+<h1 align="center">Soham Ghadge</h1>
 
----
-<summary>🚀 Projects</summary>
--[**Aura AI**]() - Intelligent AI assistant platform leveraging RAG pipelines for contextual and accurate responses
--[**Traffic Optimization**](https://github.com/sohamghadge24/TrafficLearningproject.git) - ML-driven congestion prediction system using distributed data pipelines to optimize urban traffic flow
-- [**BillSnap**](https://github.com/sohamghadge24/billsnap) – Smart bill & expense tracking
-- [**Event Management System**](https://github.com/sohamghadge24/event-management) – Role-based event platform
-- [**Blockchain Voting System**](https://github.com/sohamghadge24/blockchain-voting) – Secure digital voting  
+<p align="center">
+  Software Developer | MSc Artificial Intelligence & Machine Learning
+</p>
+
+<p align="center">
+  Focused on designing and developing secure, scalable, and maintainable software systems.
+  Experienced in full-stack development and applied machine learning with real-world impact.
+</p>
+
+
+
+
+## Selected Projects
+
+**Aura AI**  
+Intelligent AI assistant platform leveraging Retrieval-Augmented Generation (RAG) pipelines to deliver contextual and accurate responses.  
+*Technologies:* Python, Large Language Models, Vector Databases
+
+**Traffic Optimization System**  
+Machine learning–driven congestion prediction system using distributed data pipelines to improve urban traffic flow.  
+🔗 https://github.com/sohamghadge24/TrafficLearningproject.git
+
+**BillSnap**  
+Smart bill and expense tracking application focused on usability and real-world financial management.  
+🔗 https://github.com/sohamghadge24/billsnap
+
+**Event Management System**  
+Role-based event platform supporting organizers, attendees, and administrators with secure access control.  
+🔗 https://github.com/sohamghadge24/event-management
+
+**Blockchain Voting System**  
+Secure digital voting system emphasizing transparency, immutability, and voter trust.  
+🔗 https://github.com/sohamghadge24/blockchain-voting
+
 
 ---
 
@@ -51,3 +76,5 @@ Passionate about building **secure, scalable, and user-friendly applications**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sohamghadge24&style=flat-square&color=blue)  
 ✨ *Always exploring new technologies to solve real-world problems.*  
+
+
