@@ -5,7 +5,8 @@ Passionate about building **secure, scalable, and user-friendly applications**.
 
 ---
 <summary>🚀 Projects</summary>
-
+-[**Aura AI**]() - Intelligent AI assistant platform leveraging RAG pipelines for contextual and accurate responses
+-[**Traffic Optimization**](https://github.com/sohamghadge24/TrafficLearningproject.git) - ML-driven congestion prediction system using distributed data pipelines to optimize urban traffic flow
 - [**BillSnap**](https://github.com/sohamghadge24/billsnap) – Smart bill & expense tracking
 - [**Event Management System**](https://github.com/sohamghadge24/event-management) – Role-based event platform
 - [**Blockchain Voting System**](https://github.com/sohamghadge24/blockchain-voting) – Secure digital voting  
@@ -46,7 +47,7 @@ Passionate about building **secure, scalable, and user-friendly applications**.
 
 
 ---
-**Profile Page:- ** https://sohamghadge24.github.io
+**Profile Page:- ** (https://portfolio-web-site-lovat.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sohamghadge24&style=flat-square&color=blue)  
 ✨ *Always exploring new technologies to solve real-world problems.*  
