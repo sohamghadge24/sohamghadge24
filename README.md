@@ -1,42 +1,23 @@
 
 <h1 align="center">Soham Ghadge</h1>
 
-<p align="center">
-  Software Developer | MSc Artificial Intelligence & Machine Learning
-</p>
-
-<p align="center">
-  Focused on designing and developing secure, scalable, and maintainable software systems.
-  Experienced in full-stack development and applied machine learning with real-world impact.
-</p>
-
-
-
-
-## Selected Projects
-
-**Aura AI**  
-Intelligent AI assistant platform leveraging Retrieval-Augmented Generation (RAG) pipelines to deliver contextual and accurate responses.  
-*Technologies:* Python, Large Language Models, Vector Databases
-
-**Traffic Optimization System**  
-Machine learning–driven congestion prediction system using distributed data pipelines to improve urban traffic flow.  
-🔗 https://github.com/sohamghadge24/TrafficLearningproject.git
-
-**BillSnap**  
-Smart bill and expense tracking application focused on usability and real-world financial management.  
-🔗 https://github.com/sohamghadge24/billsnap
-
-**Event Management System**  
-Role-based event platform supporting organizers, attendees, and administrators with secure access control.  
-🔗 https://github.com/sohamghadge24/event-management
-
-**Blockchain Voting System**  
-Secure digital voting system emphasizing transparency, immutability, and voter trust.  
-🔗 https://github.com/sohamghadge24/blockchain-voting
-
+💻 **Software Developer** | 🎓 **MSc Artificial Intelligence & Machine Learning Student**  
+Focused on building **secure, scalable, and user-centric software solutions** with practical real-world impact.
 
 ---
+
+### 🚀 Projects
+
+- **Aura AI** – Intelligent AI assistant platform utilizing Retrieval-Augmented Generation (RAG) for accurate and contextual responses  
+- **Traffic Optimization System** – Machine learning–based congestion prediction using distributed data pipelines  
+  https://github.com/sohamghadge24/TrafficLearningproject.git  
+- **BillSnap** – Smart bill and expense tracking application  
+  https://github.com/sohamghadge24/billsnap  
+- **Event Management System** – Role-based event platform with secure access control  
+  https://github.com/sohamghadge24/event-management  
+- **Blockchain Voting System** – Secure digital voting system emphasizing transparency and trust  
+  https://github.com/sohamghadge24/blockchain-voting
+
 
 ## Things I code with 
 
